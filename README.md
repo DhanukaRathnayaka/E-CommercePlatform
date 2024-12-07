@@ -13,3 +13,12 @@ Generates detailed reports on sales and customer activity.
 Facilitates email marketing campaigns for better customer engagement.
 
 Testing 1
+Key Entities
+
+1. Customer
+Represents a user of the EasyLife platform.
+Stores details like name, email, purchase history, and preferences.
+
+Key Features:
+Retrieve and update customer details.
+Maintain a record of purchases and preferences.
