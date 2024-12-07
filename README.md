@@ -24,10 +24,4 @@ Key Features:
 Retrieve and update customer details.
 Maintain a record of purchases and preferences.
 
-2. Product
-Represents the items sold by EasyLife.
-Stores attributes like product ID, name, category, price, and stock level.
 
-Key Features:
-Update stock levels based on sales.
-Retrieve product information for reporting or display.
