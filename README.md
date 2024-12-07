@@ -48,4 +48,9 @@ Add new customers and track their interactions.
 Generate reports on customers and sales.
 Send marketing campaigns via email.
 
+Future Enhancements
+Develop a user-friendly front-end interface.
+Implement advanced analytics for customer insights.
+Add multi-language support for marketing campaigns.
+Integrate additional payment and delivery tracking features.
 
