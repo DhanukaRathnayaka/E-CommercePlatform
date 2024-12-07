@@ -13,6 +13,7 @@ Generates detailed reports on sales and customer activity.
 Facilitates email marketing campaigns for better customer engagement.
 
 Testing 1
+
 Key Entities
 
 1. Customer
