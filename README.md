@@ -32,4 +32,12 @@ Key Features:
 Update stock levels based on sales.
 Retrieve product information for reporting or display.
 
+3. Order
+Represents a customer's purchase.
+Stores attributes like order ID, customer ID, order date, total amount, and status.
+
+Key Features:
+Create and update order details.
+Change order status (e.g., Pending, Shipped, Delivered).
+
 
