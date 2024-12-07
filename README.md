@@ -11,3 +11,5 @@ Tracks product inventory, categories, and pricing.
 Processes customer orders and monitors their status.
 Generates detailed reports on sales and customer activity.
 Facilitates email marketing campaigns for better customer engagement.
+
+Testing 1
