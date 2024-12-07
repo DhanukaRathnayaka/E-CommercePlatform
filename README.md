@@ -40,4 +40,12 @@ Key Features:
 Create and update order details.
 Change order status (e.g., Pending, Shipped, Delivered).
 
+4. CRM System
+The core system managing the interaction between customers, products, and orders.
+
+Key Features:
+Add new customers and track their interactions.
+Generate reports on customers and sales.
+Send marketing campaigns via email.
+
 
