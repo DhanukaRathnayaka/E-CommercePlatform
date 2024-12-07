@@ -24,4 +24,10 @@ Key Features:
 Retrieve and update customer details.
 Maintain a record of purchases and preferences.
 
+Order
+Represents a customer's purchase.
+Stores attributes like order ID, customer ID, order date, total amount, and status.
 
+Key Features:
+Create and update order details.
+Change order status (e.g., Pending, Shipped, Delivered).
