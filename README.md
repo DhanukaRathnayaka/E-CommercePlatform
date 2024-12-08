@@ -24,6 +24,7 @@ Key Features:
 Retrieve and update customer details.
 Maintain a record of purchases and preferences.
 
+<<<<<<< HEAD
 2. Product
 Represents the items sold by EasyLife.
 Stores attributes like product ID, name, category, price, and stock level.
@@ -33,10 +34,14 @@ Update stock levels based on sales.
 Retrieve product information for reporting or display.
 
 3. Order
+=======
+Order
+>>>>>>> 119523944da61ca506d4e09931f03c942b4ed426
 Represents a customer's purchase.
 Stores attributes like order ID, customer ID, order date, total amount, and status.
 
 Key Features:
+<<<<<<< HEAD
 Create and update order details.
 Change order status (e.g., Pending, Shipped, Delivered).
 
@@ -53,4 +58,8 @@ Develop a user-friendly front-end interface.
 Implement advanced analytics for customer insights.
 Add multi-language support for marketing campaigns.
 Integrate additional payment and delivery tracking features.
+=======
+Update stock levels based on sales.
+Retrieve product information for reporting or display.
+>>>>>>> 119523944da61ca506d4e09931f03c942b4ed426
 
