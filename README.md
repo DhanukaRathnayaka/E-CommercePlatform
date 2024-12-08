@@ -14,7 +14,7 @@ Facilitates email marketing campaigns for better customer engagement.
 
 Testing 1
 
-Key Entities
+Key Entities---
 
 1. Customer
 Represents a user of the EasyLife platform.
